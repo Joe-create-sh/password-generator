@@ -1,0 +1,100 @@
+@font-face {
+
+    font-family: "Password";
+    src: url("fonts/camingocode.regular.ttf");
+}
+
+
+body{
+
+
+    margin:94px 52px;
+    font-family: "Password", Arial, Helvetica, sans-serif;
+    background: #0C4A6E;
+    
+
+}
+
+h1{
+
+    color:#FBBF24;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: -1px;
+    font-style: normal;
+
+}
+
+span{
+
+    color:#F0F9FF;
+
+}
+
+p{
+
+    color:#6EE7B7;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; 
+
+}
+
+
+.form-elements{
+
+
+    color:#F0F9FF;
+
+
+}
+
+#user-number{
+
+    width:2.6em;
+    border-radius: 5px;
+    border:3px solid #FBBF24;
+    background-color: #E0F2FE;
+    color:#0C4A6E;
+    font-family: "Password";
+    font-weight:bolder;
+
+}
+
+
+
+.password-btn, .password-output{
+
+    font-family: "Password";
+    display:inline-block;
+    margin-top: 60px;
+    padding:9px 15px;
+    font-weight:900;
+    font-size: 14px;
+    line-height: 24px;
+    border-radius: 5px;
+    border:none;
+    background:#FBBF24;
+    color:#0C4A6E;
+
+}
+
+
+.password-output{
+
+    width:160px;
+    height:20px;
+    margin-top: 0px;
+
+}
+
+
+hr{
+  
+    width:100%;
+    margin:44px 0px;
+     
+}
+
